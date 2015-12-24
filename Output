@@ -1,0 +1,59 @@
+How many HOMEWORK in your class, and how much do they weight. 
+7 29
+How many QUIZ in your class, and how much do they weight. 
+4 10
+How many GROUP WORK in your class, and how much do they weight. 
+0 0
+How many PARTIPATITATION in your class, and how much do they weight. 
+4 11
+How many MIDTERM EXAMS in your class, and how much do they weight. 
+1 25
+How many FINAL EXAMS in your class, and how much do they weight. 
+1 25
+#########Type in your grade A out of B ############ 
+HOMEWORK #1:20 20
+
+HOMEWORK #2:20 20
+
+HOMEWORK #3:20 20
+
+HOMEWORK #4:20 20
+
+HOMEWORK #5:20 20
+
+HOMEWORK #6:19 20
+
+HOMEWORK #7:20 20
+
+#########Type in your grade A out of B############ 
+QUIZ #1:10 10
+
+QUIZ #2:10 10
+
+QUIZ #3:10 10
+
+QUIZ #4:10 10
+
+#########Type in your grade A out of B############ 
+#########Type in your grade A out of B############ 
+PARTICIPATION #1:10 10
+
+PARTICIPATION #2:10 10
+
+PARTICIPATION #3:10 10
+
+PARTICIPATION #4:10 10
+
+#########Type in your grade A out of B############ 
+MIDTERM #1: 78 100
+
+#########Type in your grade A out of B############ 
+FINAL EXAM #1: 75 100
+
+HOMEWORK 99.29% 
+QUIZ 100% 
+PARTICIPATION 100% 
+MIDTER EXAM 78% 
+FINAL EXAM 75% 
+YOUR OVERALL GRADE IS: 88.04% 
+Program ended with exit code: 0
